@@ -8,7 +8,7 @@ import org.springframework.context.ApplicationContext;
 public class SpringBootHelloWorldAutoApplication {
 
     public static void main(String[] args) {
-        ApplicationContext act =  SpringApplication.run(SpringBootHelloWorldAutoApplication.class, args);
+       SpringApplication.run(SpringBootHelloWorldAutoApplication.class, args);
 
 }
 
